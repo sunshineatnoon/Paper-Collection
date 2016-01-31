@@ -21,6 +21,10 @@
 
 :white_check_mark: Exploring Nearest Neighbor Approaches for Image Captioning [[Paper]](http://arxiv.org/abs/1505.04467)
    * Devlin J, Gupta S, Girshick R, et al. Exploring Nearest Neighbor Approaches for Image Captioning[J]. arXiv preprint arXiv:1505.04467, 2015.
+   
+### Basics:
+* Efficient Back Prop [[Paper]](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+   * LeCun Y A, Bottou L, Orr G B, et al. Efficient backprop[M]//Neural networks: Tricks of the trade. Springer Berlin Heidelberg, 2012: 9-48.
 
 ### Theories
 * Batch Normalization [[Paper]](http://arxiv.org/abs/1502.03167)
