@@ -8,7 +8,7 @@
 :white_check_mark: Faster R-CNN, Microsoft Research [[Paper]] (http://arxiv.org/pdf/1506.01497)
    * Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.
    
-:white_check_mark: End-to-end people detection in crowded scenes [[Paper]] (http://arxiv.org/abs/1506.04878)
+:white_check_mark: End-to-end people detection in crowded scenes [[Paper]] (http://arxiv.org/abs/1506.04878) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/End-to-end-people-detection-in-crowded-scenes.md)
    * Russell Stewart, Mykhaylo Andriluka, End-to-end people detection in crowded scenes, arXiv:1506.04878.
    
 :white_check_mark: You Only Look Once: Unified, Real-Time Object Detection [[Paper]] (http://arxiv.org/abs/1506.02640)
