@@ -8,7 +8,7 @@ Decoding an image into a set of people detections using an end-to-end network wi
 - End-to-end system allows joint training of all components via back propagation.
 
 ## Architechure
-
+![Architechture](https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/lstm_detection.png)
 ## Algorithm
 1. Using GoogleNet to generate a 15*20*1024 image feature map;
 2. For each cell in a image feature map, use a LSTM controller to predict a set of bounding boxes;
