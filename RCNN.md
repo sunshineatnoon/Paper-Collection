@@ -4,7 +4,7 @@
 This is a milestone paper in utilizing Convolutional Neural Networks into object detections. It uses Selective Search to generate region proposals, uses CNN to extract region features and then uses SVM and linear regression to classify regions as well as fine-tune bounding boxes.
 
 ## Advantages
-- Improve mAP by more than 30% relative to the previous best result on VOC 2012—achieving (53.3%)
+- Improve mAP by more than 30% relative to the previous best result on VOC 2012 by achieving 53.3%
 - More efficient compared to sliding window methods
 
 ## Architechure
@@ -18,6 +18,10 @@ This is a milestone paper in utilizing Convolutional Neural Networks into object
 ## TL;DR
 1. This paper shows the power of features extracted by CNN;
 2. Region proposal methods such as Selective Search can be used to reduce regions that need to be considered, thus it's more efficient than algorithms based on sliding windows.
+
+## Drawbacks
+1. Too slow, use CNN to draw features for each region, takes nearly 40s per image.
+2. The algorithms composes three disjoint parts, which are not able to train jointly.
 
 ## Reference
 Girshick R, Donahue J, Darrell T, et al. Rich feature hierarchies for accurate object detection and semantic segmentation[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2014: 580-587.
