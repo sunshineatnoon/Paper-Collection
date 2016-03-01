@@ -10,7 +10,7 @@ Decoding an image into a set of people detections using an end-to-end network wi
 ## Architechure
 ![Architechture](https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/lstm_detection.png)
 ## Algorithm
-1. Using GoogleNet to generate a 15*20*1024 image feature map;
+1. Using GoogleNet to generate a 15\*20\*1024 image feature map;
 2. For each cell in a image feature map, use a LSTM controller to predict a set of bounding boxes;
 3. Using Hungarian Algorithm to assign a unique candidate to each ground truth. Predicts with high overlap with ground truths, lower rank and low distances are preferred.
 4. Calculate loss function based on the matching result.
