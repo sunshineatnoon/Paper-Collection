@@ -11,7 +11,7 @@
 :white_check_mark: End-to-end people detection in crowded scenes [[Paper]] (http://arxiv.org/abs/1506.04878) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/End-to-end-people-detection-in-crowded-scenes.md)
    * Russell Stewart, Mykhaylo Andriluka, End-to-end people detection in crowded scenes, arXiv:1506.04878.
    
-:white_check_mark: You Only Look Once: Unified, Real-Time Object Detection [[Paper]] (http://arxiv.org/abs/1506.02640)
+:white_check_mark: You Only Look Once: Unified, Real-Time Object Detection [[Paper]] (http://arxiv.org/abs/1506.02640) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/YOLO.md)
    * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, arXiv:1506.02640
    
 * SSD [[Paper]](http://arxiv.org/abs/1512.02325)
