@@ -18,7 +18,10 @@
    * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, arXiv:1506.02640
 
 :white_check_mark: Adaptive Object Detection Using Adjacency and Zoom Prediction [[Paper]] (http://arxiv.org/abs/1512.07711)
-   * Lu Y, Javidi T, Lazebnik S. Adaptive Object Detection Using Adjacency and Zoom Prediction[J]. arXiv preprint arXiv:1512.07711, 2015.
+   * Lu Y, Javidi T, Lazebnik S. Adaptive Object Detection Using Adjacency and Zoom Prediction[J]. arXiv:1512.07711, 2015. 
+   
+ :white_check_mark: Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks [[Paper]](http://arxiv.org/abs/1512.04143)
+   * Sean Bell, C. Lawrence Zitnick, Kavita Bala, Ross Girshick. arXiv:1512.04143, 2015.
    
 * SSD [[Paper]](http://arxiv.org/abs/1512.02325)
    * Liu W, Anguelov D, Erhan D, et al. SSD: Single Shot MultiBox Detector[J]. arXiv preprint arXiv:1512.02325, 2015.
