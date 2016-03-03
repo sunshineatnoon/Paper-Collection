@@ -1,4 +1,4 @@
-### Object Detection:
+### Object Detection in Image:
 :white_check_mark: RCNN [[Paper]](http://arxiv.org/abs/1311.2524) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/RCNN.md)
    * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation 
 
@@ -22,7 +22,11 @@
    
 * SSD [[Paper]](http://arxiv.org/abs/1512.02325)
    * Liu W, Anguelov D, Erhan D, et al. SSD: Single Shot MultiBox Detector[J]. arXiv preprint arXiv:1512.02325, 2015.
-    
+
+### Object Detection in Video:
+:white_check_mark: Seq-NMS for Video Object Detection [[Paper]](http://arxiv.org/abs/1602.08465)
+   * Wei Han, Pooya Khorrami, Tom Le Paine, Prajit Ramachandran, Mohammad Babaeizadeh, Honghui Shi, Jianan Li, Shuicheng Yan, Thomas S. Huang. Seq-NMS for Video Object Detection. arXiv preprint arXiv:1602.08465, 2016
+
 ### Image Caption:
 
 :white_check_mark: Exploring Nearest Neighbor Approaches for Image Captioning [[Paper]](http://arxiv.org/abs/1505.04467)
