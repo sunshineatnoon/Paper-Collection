@@ -15,6 +15,7 @@ Use skip-layer and IRNN to introduce scale variants and context information into
 2. Two ReLU RNN(IRNN) layers lay on top of conv5, with 4 IRNNs in each layer. Each IRNN slides from left-right, right-left, up-down, down-up respectively and generates 4 feature maps. These feature maps include context information. For instance, the left-right feature map includes left contextual information about each cell;
 
 ![IRNN](https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/IRNN.png)
+
 3. Skip layer extracts a fix-length descriptor from several layers and then L2-normalize, concatenate, rescale, dimension-reduce these descriptor to produce a 512\*7\*7 feature descriptor per proposal.
 
 
