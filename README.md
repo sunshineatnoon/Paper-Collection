@@ -20,7 +20,7 @@
 :white_check_mark: Adaptive Object Detection Using Adjacency and Zoom Prediction [[Paper]] (http://arxiv.org/abs/1512.07711)
    * Lu Y, Javidi T, Lazebnik S. Adaptive Object Detection Using Adjacency and Zoom Prediction[J]. arXiv:1512.07711, 2015. 
    
-:white_check_mark: Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks [[Paper]](http://arxiv.org/abs/1512.04143)
+:white_check_mark: Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks [[Paper]](http://arxiv.org/abs/1512.04143) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Inside-Outside-Net.md)
    * Sean Bell, C. Lawrence Zitnick, Kavita Bala, Ross Girshick. arXiv:1512.04143, 2015.
    
 * SSD [[Paper]](http://arxiv.org/abs/1512.02325)
