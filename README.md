@@ -23,6 +23,9 @@
 :white_check_mark: Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks [[Paper]](http://arxiv.org/abs/1512.04143) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Inside-Outside-Net.md)
    * Sean Bell, C. Lawrence Zitnick, Kavita Bala, Ross Girshick. arXiv:1512.04143, 2015.
    
+:white_check_mark: G-CNN: an Iterative Grid Based Object Detector [[Paper]](http://arxiv.org/abs/1512.07729v1)
+   * Mahyar Najibi, Mohammad Rastegari, Larry S. Davis. arXiv:1512.07729, 2015.
+   
 * SSD [[Paper]](http://arxiv.org/abs/1512.02325)
    * Liu W, Anguelov D, Erhan D, et al. SSD: Single Shot MultiBox Detector[J]. arXiv preprint arXiv:1512.02325, 2015.
 
