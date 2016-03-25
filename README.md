@@ -50,3 +50,8 @@
 ### Theories
 * Batch Normalization [[Paper]](http://arxiv.org/abs/1502.03167)
    * Ioffe S, Szegedy C. Batch normalization: Accelerating deep network training by reducing internal covariate shift[J]. arXiv preprint arXiv:1502.03167, 2015.
+
+### Practice
+* Practical recommendations for gradient-based training of deep architectures
+   * Bengio Y. Practical recommendations for gradient-based training of deep architectures[M]//Neural Networks: Tricks of the Trade. Springer Berlin Heidelberg, 2012: 437-478.
+
