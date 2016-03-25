@@ -30,7 +30,10 @@
    * Liu W, Anguelov D, Erhan D, et al. SSD: Single Shot MultiBox Detector[J]. arXiv preprint arXiv:1512.02325, 2015.
 * Deep Residual Learning for Image Recognition [[Paper]](http://arxiv.org/abs/1512.03385)
    * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition. arXiv:1512.03385, 2015
-
+   
+* Diagnosing error in object detectors [[Paper]](http://dhoiem.cs.illinois.edu/publications/eccv2012_detanalysis_derek.pdf)
+   * Hoiem D, Chodpathumwan Y, Dai Q. Diagnosing error in object detectors[M]//Computer Vision–ECCV 2012. Springer Berlin Heidelberg, 2012: 340-353.
+   
 ### Object Detection in Video:
 :white_check_mark: Seq-NMS for Video Object Detection [[Paper]](http://arxiv.org/abs/1602.08465)
    * Wei Han, Pooya Khorrami, Tom Le Paine, Prajit Ramachandran, Mohammad Babaeizadeh, Honghui Shi, Jianan Li, Shuicheng Yan, Thomas S. Huang. Seq-NMS for Video Object Detection. arXiv preprint arXiv:1602.08465, 2016
