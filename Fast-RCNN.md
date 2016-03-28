@@ -23,6 +23,7 @@ Two key ideas are proposed in Fast R-CNN:
 1. ROI can be utilized to extract region features from an image.
 2. The paper does mention a maybe better loss function for regression problem:
  ![Loss](https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/fast-rcnn-loss.png)
+
  As I quote from the paper:"When the regression targets are unbounded, training with L2 loss requires significant tuning of learning rates in order to prevent exploding gradients. Above equation eliminates this sensitivity."
 3. SVD can be used to compress fully connected layers to speed them up.
 4. Not all convolutional layers need to be fine-tuned, for VGG16, only conv3_1 and up layers are necessary to be fine-tuned. This tip can help saving some training time.
