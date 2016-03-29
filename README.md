@@ -8,7 +8,7 @@
 :white_check_mark: Fast R-CNN [[Paper]] (http://arxiv.org/pdf/1504.08083) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Fast-RCNN.md)
    * Ross Girshick, Fast R-CNN, arXiv:1504.08083.
    
-:white_check_mark: Faster R-CNN, Microsoft Research [[Paper]] (http://arxiv.org/pdf/1506.01497)
+:white_check_mark: Faster R-CNN, Microsoft Research [[Paper]] (http://arxiv.org/pdf/1506.01497) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Faster%20R-CNN.md)
    * Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.
    
 :white_check_mark: End-to-end people detection in crowded scenes [[Paper]] (http://arxiv.org/abs/1506.04878) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/End-to-end-people-detection-in-crowded-scenes.md)
