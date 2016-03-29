@@ -1,7 +1,7 @@
 # Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
 
 ## Main Idea
-Two key ideas are proposed in Fast R-CNN:
+Two key ideas are proposed in Faster R-CNN:
 
 1. Proposes RPN (Region Proposal Network) to generate region proposals, which is faster and more accurate than Selective Search.
 2. Use an iterative joint training method to train RPN and Fast R-CNN jointly.
