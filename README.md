@@ -17,7 +17,7 @@
 :white_check_mark: You Only Look Once: Unified, Real-Time Object Detection [[Paper]] (http://arxiv.org/abs/1506.02640) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/YOLO.md)
    * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, arXiv:1506.02640
 
-:white_check_mark: Adaptive Object Detection Using Adjacency and Zoom Prediction [[Paper]] (http://arxiv.org/abs/1512.07711)
+:white_check_mark: Adaptive Object Detection Using Adjacency and Zoom Prediction [[Paper]] (http://arxiv.org/abs/1512.07711) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/AZNet.md)
    * Lu Y, Javidi T, Lazebnik S. Adaptive Object Detection Using Adjacency and Zoom Prediction[J]. arXiv:1512.07711, 2015. 
    
 :white_check_mark: Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks [[Paper]](http://arxiv.org/abs/1512.04143) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Inside-Outside-Net.md)
