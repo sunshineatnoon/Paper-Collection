@@ -35,7 +35,7 @@
    * Hoiem D, Chodpathumwan Y, Dai Q. Diagnosing error in object detectors[M]//Computer Vision–ECCV 2012. Springer Berlin Heidelberg, 2012: 340-353.
    
 ### Object Detection in Video:
-:white_check_mark: Seq-NMS for Video Object Detection [[Paper]](http://arxiv.org/abs/1602.08465)
+:white_check_mark: Seq-NMS for Video Object Detection [[Paper]](http://arxiv.org/abs/1602.08465) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Seq-NMS.md)
    * Wei Han, Pooya Khorrami, Tom Le Paine, Prajit Ramachandran, Mohammad Babaeizadeh, Honghui Shi, Jianan Li, Shuicheng Yan, Thomas S. Huang. Seq-NMS for Video Object Detection. arXiv preprint arXiv:1602.08465, 2016
 
 ### Image Caption:
@@ -43,15 +43,13 @@
 :white_check_mark: Exploring Nearest Neighbor Approaches for Image Captioning [[Paper]](http://arxiv.org/abs/1505.04467)
    * Devlin J, Gupta S, Girshick R, et al. Exploring Nearest Neighbor Approaches for Image Captioning[J]. arXiv preprint arXiv:1505.04467, 2015.
    
-### Basics:
+### Theories
 * Efficient Back Prop [[Paper]](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
    * LeCun Y A, Bottou L, Orr G B, et al. Efficient backprop[M]//Neural networks: Tricks of the trade. Springer Berlin Heidelberg, 2012: 9-48.
-
-### Theories
 * Batch Normalization [[Paper]](http://arxiv.org/abs/1502.03167)
    * Ioffe S, Szegedy C. Batch normalization: Accelerating deep network training by reducing internal covariate shift[J]. arXiv preprint arXiv:1502.03167, 2015.
 
-### Practice
+### Others
 * Practical recommendations for gradient-based training of deep architectures [[Paper]](http://arxiv.org/abs/1206.5533)
    * Bengio Y. Practical recommendations for gradient-based training of deep architectures[M]//Neural Networks: Tricks of the Trade. Springer Berlin Heidelberg, 2012: 437-478.
 
