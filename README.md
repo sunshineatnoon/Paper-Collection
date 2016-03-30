@@ -1,20 +1,20 @@
 ### Object Detection in Image:
-:white_check_mark: RCNN [[Paper]](http://arxiv.org/abs/1311.2524) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/RCNN.md)
+:white_check_mark: RCNN [[Paper]](http://arxiv.org/abs/1311.2524) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/RCNN.md) [[Code]](https://github.com/rbgirshick/rcnn)
    * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation 
 
-:white_check_mark: Spatial pyramid pooling in deep convolutional networks for visual recognition [[Paper]] (http://arxiv.org/abs/1406.4729) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/SPPNet.md)
+:white_check_mark: Spatial pyramid pooling in deep convolutional networks for visual recognition [[Paper]] (http://arxiv.org/abs/1406.4729) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/SPPNet.md) [[Code]](https://github.com/ShaoqingRen/SPP_net)
   * He K, Zhang X, Ren S, et al. Spatial pyramid pooling in deep convolutional networks for visual recognition[J]. Pattern Analysis and Machine Intelligence, IEEE Transactions on, 2015, 37(9): 1904-1916.
   
-:white_check_mark: Fast R-CNN [[Paper]] (http://arxiv.org/pdf/1504.08083) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Fast-RCNN.md)
+:white_check_mark: Fast R-CNN [[Paper]] (http://arxiv.org/pdf/1504.08083) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Fast-RCNN.md) [[Code]](https://github.com/rbgirshick/fast-rcnn)
    * Ross Girshick, Fast R-CNN, arXiv:1504.08083.
    
-:white_check_mark: Faster R-CNN, Microsoft Research [[Paper]] (http://arxiv.org/pdf/1506.01497) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Faster%20R-CNN.md)
+:white_check_mark: Faster R-CNN, Microsoft Research [[Paper]] (http://arxiv.org/pdf/1506.01497) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Faster%20R-CNN.md) [[Code]](https://github.com/ShaoqingRen/faster_rcnn) [[Python Code]](https://github.com/rbgirshick/py-faster-rcnn)
    * Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.
    
-:white_check_mark: End-to-end people detection in crowded scenes [[Paper]] (http://arxiv.org/abs/1506.04878) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/End-to-end-people-detection-in-crowded-scenes.md)
+:white_check_mark: End-to-end people detection in crowded scenes [[Paper]] (http://arxiv.org/abs/1506.04878)  [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/End-to-end-people-detection-in-crowded-scenes.md) [[Code]](https://github.com/Russell91/ReInspect)
    * Russell Stewart, Mykhaylo Andriluka, End-to-end people detection in crowded scenes, arXiv:1506.04878.
    
-:white_check_mark: You Only Look Once: Unified, Real-Time Object Detection [[Paper]] (http://arxiv.org/abs/1506.02640) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/YOLO.md)
+:white_check_mark: You Only Look Once: Unified, Real-Time Object Detection [[Paper]] (http://arxiv.org/abs/1506.02640) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/YOLO.md) [[Code]](http://pjreddie.com/darknet/yolo/)
    * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, arXiv:1506.02640
 
 :white_check_mark: Adaptive Object Detection Using Adjacency and Zoom Prediction [[Paper]] (http://arxiv.org/abs/1512.07711) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/AZNet.md)
@@ -54,4 +54,8 @@
 ### Practice
 * Practical recommendations for gradient-based training of deep architectures [[Paper]](http://arxiv.org/abs/1206.5533)
    * Bengio Y. Practical recommendations for gradient-based training of deep architectures[M]//Neural Networks: Tricks of the Trade. Springer Berlin Heidelberg, 2012: 437-478.
+
+### Open Courses
+* CS231n: Convolutional Neural Networks for Visual Recognition [[Course Page]](http://vision.stanford.edu/teaching/cs231n/index.html)
+* CS224d: Deep Learning for Natural Language Processing [[Course Page]](http://cs224d.stanford.edu/index.html)
 
