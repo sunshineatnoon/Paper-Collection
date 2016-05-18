@@ -57,3 +57,8 @@
 * CS231n: Convolutional Neural Networks for Visual Recognition [[Course Page]](http://vision.stanford.edu/teaching/cs231n/index.html)
 * CS224d: Deep Learning for Natural Language Processing [[Course Page]](http://cs224d.stanford.edu/index.html)
 
+### Online Books
+* [Deep Learning](http://www.deeplearningbook.org) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+
+### Mathmatics
+* Introduction to Probability Models, Sheldon M. Ross
