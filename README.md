@@ -44,7 +44,7 @@
    * Devlin J, Gupta S, Girshick R, et al. Exploring Nearest Neighbor Approaches for Image Captioning[J]. arXiv preprint arXiv:1505.04467, 2015.
 
 ### Unsupervised Learning:
-:white_check_mark: Variational Autoencoder [[Paper]](http://arxiv.org/abs/1312.6114)
+:white_check_mark: Variational Autoencoder [[Paper]](http://arxiv.org/abs/1312.6114) [[Note]](http://sunshineatnoon.github.io/VAE/)
    * Kingma D P, Welling M. Auto-encoding variational bayes[J]. arXiv preprint arXiv:1312.6114, 2013.
 
 ### Theories
