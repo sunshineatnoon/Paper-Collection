@@ -47,7 +47,7 @@
 :white_check_mark: Variational Autoencoder [[Paper]](http://arxiv.org/abs/1312.6114) [[Note]](http://sunshineatnoon.github.io/VAE/)
    * Kingma D P, Welling M. Auto-encoding variational bayes[J]. arXiv preprint arXiv:1312.6114, 2013.
 
-:white_check_mark: DRAW: A recurrent neural network for image generation [[Paper]](http://arxiv.org/abs/1502.04623) [[Torch Code]](https://github.com/vivanov879/draw) [[Tensorflow Code]](https://github.com/ericjang/draw)
+:white_check_mark: DRAW: A recurrent neural network for image generation [[Paper]](http://arxiv.org/abs/1502.04623) [[Torch Code]](https://github.com/vivanov879/draw) [[Tensorflow Code]](https://github.com/ericjang/draw) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/DRAW.md)
    * Gregor K, Danihelka I, Graves A, et al. DRAW: A recurrent neural network for image generation[J]. arXiv preprint arXiv:1502.04623, 2015.
 
 ### Theories
