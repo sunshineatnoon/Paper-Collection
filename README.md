@@ -43,9 +43,12 @@
 :white_check_mark: Exploring Nearest Neighbor Approaches for Image Captioning [[Paper]](http://arxiv.org/abs/1505.04467)
    * Devlin J, Gupta S, Girshick R, et al. Exploring Nearest Neighbor Approaches for Image Captioning[J]. arXiv preprint arXiv:1505.04467, 2015.
 
-### Unsupervised Learning:
+### Image Generations:
 :white_check_mark: Variational Autoencoder [[Paper]](http://arxiv.org/abs/1312.6114) [[Note]](http://sunshineatnoon.github.io/VAE/)
    * Kingma D P, Welling M. Auto-encoding variational bayes[J]. arXiv preprint arXiv:1312.6114, 2013.
+
+:white_check_mark: DRAW: A recurrent neural network for image generation [[Paper]](http://arxiv.org/abs/1502.04623) [[Torch Code]](https://github.com/vivanov879/draw) [[Tensorflow Code]](https://github.com/ericjang/draw)
+   * Gregor K, Danihelka I, Graves A, et al. DRAW: A recurrent neural network for image generation[J]. arXiv preprint arXiv:1502.04623, 2015.
 
 ### Theories
 * Efficient Back Prop [[Paper]](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
