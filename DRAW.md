@@ -40,6 +40,7 @@ In this case, the input is just the whole image, and the output of the Decoder R
 #### Selective Attention Model
 In this case, the author impose a N*N grid of Gaussian filters on top of the image, and get parameters of these Gaussian filters from the hidden state of the Decoder RNN:
 Then use these Gaussian filters to choose which part of the image being input into the Encoder RNN and which part of canvas is modified.
+
 1. Generate paramters of the Gaussian filters:
 
   ![](https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/DRAW/7.png)
