@@ -50,6 +50,27 @@
 :white_check_mark: DRAW: A recurrent neural network for image generation [[Paper]](http://arxiv.org/abs/1502.04623) [[Torch Code]](https://github.com/vivanov879/draw) [[Tensorflow Code]](https://github.com/ericjang/draw) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/DRAW.md)
    * Gregor K, Danihelka I, Graves A, et al. DRAW: A recurrent neural network for image generation[J]. arXiv preprint arXiv:1502.04623, 2015.
 
+* Improving Variational Inference with Inverse Autoregressive Flow [[Paper]](http://arxiv.org/abs/1606.04934)
+  * Kingma D P, Salimans T, Welling M. Improving Variational Inference with Inverse Autoregressive Flow[J]. arXiv preprint arXiv:1606.04934, 2016.
+  
+* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[Paper]](http://arxiv.org/abs/1511.06434)
+  * Radford A, Metz L, Chintala S. Unsupervised representation learning with deep convolutional generative adversarial networks[J]. arXiv preprint arXiv:1511.06434, 2015.
+
+* Attend, Infer, Repeat: Fast Scene Understanding with Generative Models [[Paper]](http://arxiv.org/abs/1603.08575)
+  * Eslami S M, Heess N, Weber T, et al. Attend, Infer, Repeat: Fast Scene Understanding with Generative Models[J]. arXiv preprint arXiv:1603.08575, 2016.
+
+* Improved Techniques for Training GANs [[Paper]](http://arxiv.org/abs/1606.03498)
+  * Salimans T, Goodfellow I, Zaremba W, et al. Improved Techniques for Training GANs[J]. arXiv preprint arXiv:1606.03498, 2016.
+
+* Variational Inference with Normalizing Flows [[Paper]](http://arxiv.org/abs/1505.05770)
+  * Rezende D J, Mohamed S. Variational inference with normalizing flows[J]. arXiv preprint arXiv:1505.05770, 2015.
+
+* InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets[[Paper]](https://arxiv.org/abs/1606.03657)
+  * Chen X, Duan Y, Houthooft R, et al. InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets[J]. arXiv preprint arXiv:1606.03657, 2016.
+
+* Deep Convolutional Inverse Graphics Network [[Paper]](https://arxiv.org/abs/1503.03167)
+  * Kulkarni T D, Whitney W F, Kohli P, et al. Deep convolutional inverse graphics network[C]//Advances in Neural Information Processing Systems. 2015: 2539-2547.
+
 ### Theories
 * Efficient Back Prop [[Paper]](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
    * LeCun Y A, Bottou L, Orr G B, et al. Efficient backprop[M]//Neural networks: Tricks of the trade. Springer Berlin Heidelberg, 2012: 9-48.
