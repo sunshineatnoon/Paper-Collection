@@ -80,7 +80,7 @@
 ### Others
 * Practical recommendations for gradient-based training of deep architectures [[Paper]](http://arxiv.org/abs/1206.5533)
    * Bengio Y. Practical recommendations for gradient-based training of deep architectures[M]//Neural Networks: Tricks of the Trade. Springer Berlin Heidelberg, 2012: 437-478.
-* Fully convolutional networks for semantic segmentation [[Paper]](https://arxiv.org/abs/1411.4038)
+* Fully convolutional networks for semantic segmentation [[Paper]](https://arxiv.org/abs/1411.4038) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/FCN.md)
    * Long J, Shelhamer E, Darrell T. Fully convolutional networks for semantic segmentation[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 3431-3440.
 
 ### Open Courses
