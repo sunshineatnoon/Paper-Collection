@@ -10,6 +10,7 @@ Use fully convolutional neural  network (FCN) to predict semantic segmentation o
 The whole network is an end-to-end convolutional neural network. Its input is a color image, and output is the semantic segmentation prediction of input. There are two novel points:
 
 - The network only contains convolutional layer, all fully connected layers are interpreted as convolutional layers. This perspective brings 3 advantages: 
+
 1. By getting rid of fully connected layers, the network can take images of any size as inputs rather than fix-sized images. 
 2. Convolution is more time efficient than fully connected layers. 
 3. Convolution keeps spatial structure of the images.
