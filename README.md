@@ -76,7 +76,9 @@
    * LeCun Y A, Bottou L, Orr G B, et al. Efficient backprop[M]//Neural networks: Tricks of the trade. Springer Berlin Heidelberg, 2012: 9-48.
 * Batch Normalization [[Paper]](http://arxiv.org/abs/1502.03167)
    * Ioffe S, Szegedy C. Batch normalization: Accelerating deep network training by reducing internal covariate shift[J]. arXiv preprint arXiv:1502.03167, 2015.
-
+* A guide to convolution arithmetic for deep learning [[Paper]](http://arxiv.org/abs/1603.07285)
+   * Dumoulin V, Visin F. A guide to convolution arithmetic for deep learning[J]. arXiv preprint arXiv:1603.07285, 2016.
+   
 ### Others
 * Practical recommendations for gradient-based training of deep architectures [[Paper]](http://arxiv.org/abs/1206.5533)
    * Bengio Y. Practical recommendations for gradient-based training of deep architectures[M]//Neural Networks: Tricks of the Trade. Springer Berlin Heidelberg, 2012: 437-478.
