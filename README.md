@@ -78,6 +78,8 @@
    * Ioffe S, Szegedy C. Batch normalization: Accelerating deep network training by reducing internal covariate shift[J]. arXiv preprint arXiv:1502.03167, 2015.
 * A guide to convolution arithmetic for deep learning [[Paper]](http://arxiv.org/abs/1603.07285)
    * Dumoulin V, Visin F. A guide to convolution arithmetic for deep learning[J]. arXiv preprint arXiv:1603.07285, 2016.
+* Decoupled Neural Interfaces using Synthetic Gradients [[Paper]](http://arxiv.org/abs/1608.05343v1)
+   * Max Jaderberg, Wojciech Marian, Czarnecki Simon Osindero, et al. Decoupled Neural Interfaces using Synthetic Gradients. arXiv preprint arXiv:1608.05343, 2016.
    
 ### Others
 * Practical recommendations for gradient-based training of deep architectures [[Paper]](http://arxiv.org/abs/1206.5533)
