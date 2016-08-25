@@ -80,7 +80,11 @@
    * Dumoulin V, Visin F. A guide to convolution arithmetic for deep learning[J]. arXiv preprint arXiv:1603.07285, 2016.
 * Decoupled Neural Interfaces using Synthetic Gradients [[Paper]](http://arxiv.org/abs/1608.05343v1)
    * Max Jaderberg, Wojciech Marian, Czarnecki Simon Osindero, et al. Decoupled Neural Interfaces using Synthetic Gradients. arXiv preprint arXiv:1608.05343, 2016.
-   
+
+### Style Transfer
+* A neural algorithm of artistic style [[Paper]](http://arxiv.org/abs/1508.06576) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/A%20Neural%20Algorithm%20of%20Artistic%20Style.md)
+  * Gatys L A, Ecker A S, Bethge M. A neural algorithm of artistic style[J]. arXiv preprint arXiv:1508.06576, 2015.
+  
 ### Others
 * Practical recommendations for gradient-based training of deep architectures [[Paper]](http://arxiv.org/abs/1206.5533)
    * Bengio Y. Practical recommendations for gradient-based training of deep architectures[M]//Neural Networks: Tricks of the Trade. Springer Berlin Heidelberg, 2012: 437-478.
