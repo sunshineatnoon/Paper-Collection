@@ -107,3 +107,7 @@
 
 ### Mathmatics
 * Introduction to Probability Models, Sheldon M. Ross
+
+### Clustering
+:white_check_mark: k-means++: The advantages of careful seeding [[Paper]](http://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/k-means++.md)
+   * Arthur D, Vassilvitskii S. k-means++: The advantages of careful seeding[C]//Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete algorithms. Society for Industrial and Applied Mathematics, 2007: 1027-1035.
