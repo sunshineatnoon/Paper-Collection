@@ -14,5 +14,6 @@ New initialization method to make k-means more accurate and fast.
 ## TL;DR
 1. The above initialization algorithm makes intuitive sense. By choosing the point that is far from its assigned center to be the next center, one can get k centers that are distant from each other. This way kmeans will converge faster and more likely to stop at a better minima. 
 2. [sklearn](http://scikit-learn.org/stable/modules/clustering.html#k-means) has a good implementation of this algorithm.
+
 ## Reference
 Arthur D, Vassilvitskii S. k-means++: The advantages of careful seeding[C]//Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete algorithms. Society for Industrial and Applied Mathematics, 2007: 1027-1035.
