@@ -44,6 +44,9 @@
    * Devlin J, Gupta S, Girshick R, et al. Exploring Nearest Neighbor Approaches for Image Captioning[J]. arXiv preprint arXiv:1505.04467, 2015.
 
 ### Image Generations:
+:white_check_mark: Pixel Recurrent Neural Networks [[Paper]](https://arxiv.org/abs/1601.06759) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/pixel-rnn.md)
+ * van den Oord A, Kalchbrenner N, Kavukcuoglu K. Pixel Recurrent Neural Networks[J]. arXiv preprint arXiv:1601.06759, 2016.
+
 :white_check_mark: Variational Autoencoder [[Paper]](http://arxiv.org/abs/1312.6114) [[Note]](http://sunshineatnoon.github.io/VAE/)
    * Kingma D P, Welling M. Auto-encoding variational bayes[J]. arXiv preprint arXiv:1312.6114, 2013.
 
