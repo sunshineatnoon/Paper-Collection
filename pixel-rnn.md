@@ -10,11 +10,14 @@ For each pixel, R depends on all the pixels above and left to this pixel, while 
 
 ## Row LSTM
 The Row LSTM model is an extension on multi-dimensional LSTM. To generate a pixel, the R,G,B values of its above three neighbors are fed into LSTM, then LSTM outputs a probability distribution of this pixel value. Thus, pixels are generate row by row. Its context are as follows:
+
 ![](https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/row_lstm.png)
+
 Thus its can't use all pixels above the target pixel, only a triangular receptive field.
 
 ## Diagonal BiLSTM
 In order to take advantage of all pixels before the target pixel, the author also proposes Diagonal BiLSTM, which feeds the pixels of above, left and right neighbor into LSTM to generate the target pixel ( In my conprehension, the author feeds the left and above neighbor in the left-to-right scan, while feeds the right and above neighbor in the right-to-left scan). This way the model can take advantage of all pixels before the target pixel as context:
+
 ![](https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/biLSTM.png)
 
 ## Pixel CNN
@@ -24,7 +27,9 @@ To speed up the generation process, the author proposes Pixel CNN to avoid seque
 An LSTM layer has an input-to-state component and a recurrent state-to-state component that together determine the four gates inside the LSTM core.
 So in the Row LSTM model, we can use convolution to calculate the input-to-sate component for the whole image at once and state-to-state component row by row.
 While in the Diagonal BiLSTM, one needs to skew the image first and then do convolutions like the figure below.
+
 ![](https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/skew.png)
+
 For instance, the red pixel depends on its left and above neighbor, when you skew the image by one offset, its two neighbors are aligned in one column. So at this point, a 2x1 columnwise convolution can be used to calculate the input-to-state component at once. 
 
 ## TL;DR
