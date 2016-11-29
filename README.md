@@ -74,7 +74,7 @@
 * Deep Convolutional Inverse Graphics Network [[Paper]](https://arxiv.org/abs/1503.03167)
   * Kulkarni T D, Whitney W F, Kohli P, et al. Deep convolutional inverse graphics network[C]//Advances in Neural Information Processing Systems. 2015: 2539-2547.
 
-* Image-to-Image Translation with Conditional Adversarial Networks [[Paper]](https://arxiv.org/abs/1611.07004) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/pix2pix.md) [[Torch Code]](https://github.com/phillipi/pix2pix) [[Tensorflow Code]](https://github.com/yenchenlin/pix2pix-tensorflow)
+:white_check_mark: Image-to-Image Translation with Conditional Adversarial Networks [[Paper]](https://arxiv.org/abs/1611.07004) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/pix2pix.md) [[Torch Code]](https://github.com/phillipi/pix2pix) [[Tensorflow Code]](https://github.com/yenchenlin/pix2pix-tensorflow)
   * Isola P, Zhu J Y, Zhou T, et al. Image-to-Image Translation with Conditional Adversarial Networks[J]. arXiv preprint arXiv:1611.07004, 2016.
   
 ### Theories
