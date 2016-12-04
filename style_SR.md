@@ -17,3 +17,6 @@ This paper gives a novel SR by utilizing style transfer algorithm, their generat
 
 The limitations of this paper is obvious. First it only works on pure texture images since gram matrix is a statistical information collected from the whole image; Second the model needs a optimization process so it's slower than feed-forward SR method.
 
+## Reference
+
+Il Jun Ahn, Woo Hyun Nam. Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Resolution [J]. arXiv preprint arXiv:1612.00085, 2016.
