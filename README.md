@@ -67,6 +67,7 @@
 ### Style Transfer
 :white_check_mark: A neural algorithm of artistic style [[Paper]](http://arxiv.org/abs/1508.06576) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/A%20Neural%20Algorithm%20of%20Artistic%20Style.md)
   * Gatys L A, Ecker A S, Bethge M. A neural algorithm of artistic style[J]. arXiv preprint arXiv:1508.06576, 2015.
+  
 :white_check_mark: Perceptual losses for real-time style transfer and super-resolution [[Paper]](https://arxiv.org/abs/1603.08155) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Perceptual%20Losses%20Neural%20Style.md)
   * Johnson J, Alahi A, Fei-Fei L. Perceptual losses for real-time style transfer and super-resolution[J]. arXiv preprint arXiv:1603.08155, 2016.
  
