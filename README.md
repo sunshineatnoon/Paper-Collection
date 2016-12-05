@@ -26,14 +26,6 @@
 :white_check_mark: G-CNN: an Iterative Grid Based Object Detector [[Paper]](http://arxiv.org/abs/1512.07729v1)
    * Mahyar Najibi, Mohammad Rastegari, Larry S. Davis. arXiv:1512.07729, 2015.
    
-* SSD [[Paper]](http://arxiv.org/abs/1512.02325)
-   * Liu W, Anguelov D, Erhan D, et al. SSD: Single Shot MultiBox Detector[J]. arXiv preprint arXiv:1512.02325, 2015.
-* Deep Residual Learning for Image Recognition [[Paper]](http://arxiv.org/abs/1512.03385)
-   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition. arXiv:1512.03385, 2015
-   
-* Diagnosing error in object detectors [[Paper]](http://dhoiem.cs.illinois.edu/publications/eccv2012_detanalysis_derek.pdf)
-   * Hoiem D, Chodpathumwan Y, Dai Q. Diagnosing error in object detectors[M]//Computer Vision–ECCV 2012. Springer Berlin Heidelberg, 2012: 340-353.
-   
 ### Object Detection in Video:
 :white_check_mark: Seq-NMS for Video Object Detection [[Paper]](http://arxiv.org/abs/1602.08465) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Seq-NMS.md)
    * Wei Han, Pooya Khorrami, Tom Le Paine, Prajit Ramachandran, Mohammad Babaeizadeh, Honghui Shi, Jianan Li, Shuicheng Yan, Thomas S. Huang. Seq-NMS for Video Object Detection. arXiv preprint arXiv:1602.08465, 2016
@@ -52,62 +44,38 @@
 
 :white_check_mark: DRAW: A recurrent neural network for image generation [[Paper]](http://arxiv.org/abs/1502.04623) [[Torch Code]](https://github.com/vivanov879/draw) [[Tensorflow Code]](https://github.com/ericjang/draw) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/DRAW.md)
    * Gregor K, Danihelka I, Graves A, et al. DRAW: A recurrent neural network for image generation[J]. arXiv preprint arXiv:1502.04623, 2015.
-
-* Improving Variational Inference with Inverse Autoregressive Flow [[Paper]](http://arxiv.org/abs/1606.04934)
-  * Kingma D P, Salimans T, Welling M. Improving Variational Inference with Inverse Autoregressive Flow[J]. arXiv preprint arXiv:1606.04934, 2016.
   
 * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[Paper]](http://arxiv.org/abs/1511.06434)
   * Radford A, Metz L, Chintala S. Unsupervised representation learning with deep convolutional generative adversarial networks[J]. arXiv preprint arXiv:1511.06434, 2015.
 
-* Attend, Infer, Repeat: Fast Scene Understanding with Generative Models [[Paper]](http://arxiv.org/abs/1603.08575)
-  * Eslami S M, Heess N, Weber T, et al. Attend, Infer, Repeat: Fast Scene Understanding with Generative Models[J]. arXiv preprint arXiv:1603.08575, 2016.
-
 * Improved Techniques for Training GANs [[Paper]](http://arxiv.org/abs/1606.03498)
   * Salimans T, Goodfellow I, Zaremba W, et al. Improved Techniques for Training GANs[J]. arXiv preprint arXiv:1606.03498, 2016.
 
-* Variational Inference with Normalizing Flows [[Paper]](http://arxiv.org/abs/1505.05770)
-  * Rezende D J, Mohamed S. Variational inference with normalizing flows[J]. arXiv preprint arXiv:1505.05770, 2015.
-
 * InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets[[Paper]](https://arxiv.org/abs/1606.03657)
   * Chen X, Duan Y, Houthooft R, et al. InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets[J]. arXiv preprint arXiv:1606.03657, 2016.
-
-* Deep Convolutional Inverse Graphics Network [[Paper]](https://arxiv.org/abs/1503.03167)
-  * Kulkarni T D, Whitney W F, Kohli P, et al. Deep convolutional inverse graphics network[C]//Advances in Neural Information Processing Systems. 2015: 2539-2547.
 
 :white_check_mark: Image-to-Image Translation with Conditional Adversarial Networks [[Paper]](https://arxiv.org/abs/1611.07004) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/pix2pix.md) [[Torch Code]](https://github.com/phillipi/pix2pix) [[Tensorflow Code]](https://github.com/yenchenlin/pix2pix-tensorflow)
   * Isola P, Zhu J Y, Zhou T, et al. Image-to-Image Translation with Conditional Adversarial Networks[J]. arXiv preprint arXiv:1611.07004, 2016.
   
 :white_check_mark: Learning to Generate Images of Outdoor Scenes from Attributes and Semantic Layouts [[Paper]](https://arxiv.org/abs/1612.00215) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/AL_CGAN.md)
   * Levent Karacan, Zeynep Akata, Aykut Erdem, Erkut Erdem. Learning to Generate Images of Outdoor Scenes from Attributes and Semantic Layouts [J]. arXiv preprint arXiv:1612.00215, 2016.
-  
-### Theories
-* Efficient Back Prop [[Paper]](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
-   * LeCun Y A, Bottou L, Orr G B, et al. Efficient backprop[M]//Neural networks: Tricks of the trade. Springer Berlin Heidelberg, 2012: 9-48.
-* Batch Normalization [[Paper]](http://arxiv.org/abs/1502.03167)
-   * Ioffe S, Szegedy C. Batch normalization: Accelerating deep network training by reducing internal covariate shift[J]. arXiv preprint arXiv:1502.03167, 2015.
-* A guide to convolution arithmetic for deep learning [[Paper]](http://arxiv.org/abs/1603.07285)
-   * Dumoulin V, Visin F. A guide to convolution arithmetic for deep learning[J]. arXiv preprint arXiv:1603.07285, 2016.
-* Decoupled Neural Interfaces using Synthetic Gradients [[Paper]](http://arxiv.org/abs/1608.05343v1)
-   * Max Jaderberg, Wojciech Marian, Czarnecki Simon Osindero, et al. Decoupled Neural Interfaces using Synthetic Gradients. arXiv preprint arXiv:1608.05343, 2016.
+ 
+### Activation Maximization
+:white_check_mark: Synthesizing the preferred inputs for neurons in neural networks via deep generator networks [[Paper]](https://arxiv.org/abs/1605.09304) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/DGN_AM.md)
+  * Nguyen A, Dosovitskiy A, Yosinski J, et al. Synthesizing the preferred inputs for neurons in neural networks via deep generator networks[J]. arXiv preprint arXiv:1605.09304, 2016.
 
 ### Style Transfer
-* A neural algorithm of artistic style [[Paper]](http://arxiv.org/abs/1508.06576) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/A%20Neural%20Algorithm%20of%20Artistic%20Style.md)
+:white_check_mark: A neural algorithm of artistic style [[Paper]](http://arxiv.org/abs/1508.06576) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/A%20Neural%20Algorithm%20of%20Artistic%20Style.md)
   * Gatys L A, Ecker A S, Bethge M. A neural algorithm of artistic style[J]. arXiv preprint arXiv:1508.06576, 2015.
-* Perceptual losses for real-time style transfer and super-resolution [[Paper]](https://arxiv.org/abs/1603.08155) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Perceptual%20Losses%20Neural%20Style.md)
+:white_check_mark: Perceptual losses for real-time style transfer and super-resolution [[Paper]](https://arxiv.org/abs/1603.08155) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Perceptual%20Losses%20Neural%20Style.md)
   * Johnson J, Alahi A, Fei-Fei L. Perceptual losses for real-time style transfer and super-resolution[J]. arXiv preprint arXiv:1603.08155, 2016.
  
 ### Super Resolution
 :white_check_mark: Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Resolution [[Paper]](https://arxiv.org/abs/1612.00085) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/style_SR.md)
   * Il Jun Ahn, Woo Hyun Nam. Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Resolution [J]. arXiv preprint arXiv:1612.00085, 2016.
 
-### Sketch Related
-* Adversarial Training For Sketch Retrieval [[Paper]](https://arxiv.org/abs/1607.02748)[[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Adversarial%20Training%20For%20Sketch%20Retrieval.md)
-   * Creswell A, Bharath A A. Adversarial Training For Sketch Retrieval[J]. arXiv preprint arXiv:1607.02748, 2016.
-  
-### Others
-* Practical recommendations for gradient-based training of deep architectures [[Paper]](http://arxiv.org/abs/1206.5533)
-   * Bengio Y. Practical recommendations for gradient-based training of deep architectures[M]//Neural Networks: Tricks of the Trade. Springer Berlin Heidelberg, 2012: 437-478.
-   
+
+### Others  
 :white_check_mark: Fully convolutional networks for semantic segmentation [[Paper]](https://arxiv.org/abs/1411.4038) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/FCN.md)
    * Long J, Shelhamer E, Darrell T. Fully convolutional networks for semantic segmentation[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 3431-3440.
 
