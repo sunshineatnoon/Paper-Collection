@@ -44,7 +44,10 @@
 
 :white_check_mark: DRAW: A recurrent neural network for image generation [[Paper]](http://arxiv.org/abs/1502.04623) [[Torch Code]](https://github.com/vivanov879/draw) [[Tensorflow Code]](https://github.com/ericjang/draw) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/DRAW.md)
    * Gregor K, Danihelka I, Graves A, et al. DRAW: A recurrent neural network for image generation[J]. arXiv preprint arXiv:1502.04623, 2015.
-  
+
+:white_check_mark: Scribbler: Controlling Deep Image Synthesis with Sketch and Color [[Paper]](https://arxiv.org/pdf/1612.00835v2.pdf) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/scribble.md)
+   * Patsorn Sangkloy, Jingwan Lu, et al. Scribbler: Controlling Deep Image Synthesis with Sketch and Color. arXiv preprint arXiv:1612.00835, 2016.
+
 * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[Paper]](http://arxiv.org/abs/1511.06434)
   * Radford A, Metz L, Chintala S. Unsupervised representation learning with deep convolutional generative adversarial networks[J]. arXiv preprint arXiv:1511.06434, 2015.
 
