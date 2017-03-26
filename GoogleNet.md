@@ -9,7 +9,7 @@
 - **Some efforts to address gradient vanishing problem** Not only use classifiers after the last layer but also use classifiers in the lower stages.
 
 ## Some thoughts: 
-When NIN and GoogleNet compare their network with preceeding work, they don't take depth into account. It's hard to say their improved accuracy is from the deeper network or the inception structure.
+When NIN and GoogleNet compare their network with preceeding work, they don't take depth into account. It's hard to say their improved accuracy is from the deeper network or the inception structure. [Here](https://www.youtube.com/watch?v=VxhSouuSZDY) is a video explaining why inception is potentially better than simple convoltion. 
 
 ## Reference
 Szegedy, Christian, et al. "Going deeper with convolutions." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015.
