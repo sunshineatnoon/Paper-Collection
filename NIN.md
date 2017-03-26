@@ -15,3 +15,7 @@
 ![Global Average Pooling](https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/GAP.png)
 
 2. It has no parameters so it's more robust to overfit.
+
+# Reference
+
+Lin, Min, Qiang Chen, and Shuicheng Yan. "Network in network." arXiv preprint arXiv:1312.4400 (2013).
