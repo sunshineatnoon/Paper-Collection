@@ -1,5 +1,5 @@
 ### Image Classification:
-Network in Network [[Paper]](https://arxiv.org/abs/1312.4400) [[Note]]() [[Torch Code]](https://github.com/szagoruyko/cifar.torch/blob/master/models/nin.lua)
+Network in Network [[Paper]](https://arxiv.org/abs/1312.4400) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/NIN.md) [[Torch Code]](https://github.com/szagoruyko/cifar.torch/blob/master/models/nin.lua)
    * Lin, Min, Qiang Chen, and Shuicheng Yan. "Network in network." arXiv preprint arXiv:1312.4400 (2013).
    
 VGG [[Paper]](https://arxiv.org/abs/1409.1556) [[Note]]() [[Torch Code]](https://github.com/szagoruyko/cifar.torch/blob/master/models/vgg_bn_drop.lua)
