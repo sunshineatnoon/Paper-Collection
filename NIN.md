@@ -6,6 +6,21 @@
 
 ## MLPConv Layer
 ![MLPConv](https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/MLPConv.png)
+**Note.** From the point of implementation, MLPConv layer is just one convolutional layer plus one or many 1x1 convolutional layers. The Torch code below implements a building block of MLPConv layer.
+
+```lua
+model:add(nn.SpatialConvolution(3,192,5,5,1,1,2,2))
+model:add(nn.SpatialBatchNormalization(192,1e-3))
+model:add(nn.ReLU(true))
+
+model:add(nn.SpatialConvolution(192,160,1,1))
+model:add(nn.SpatialBatchNormalization(160,1e-3))
+model:add(nn.ReLU(true))
+
+model:add(nn.SpatialConvolution(160,96,1,1))
+model:add(nn.SpatialBatchNormalization(96,1e-3))
+model:add(nn.ReLU(true))
+```
 **Benefits.** Conventional convolutional layers are linear transformaions, while MLPConv slides small MLP over the feature map intervaned with non-linearity. So MLPConv has stronger capability to capture local abstraction. Thus avoids combination burden for the next layer.
 
 ## Global Average Pooling
