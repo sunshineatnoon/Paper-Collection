@@ -2,7 +2,7 @@
 Network in Network [[Paper]](https://arxiv.org/abs/1312.4400) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/NIN.md) [[Torch Code]](https://github.com/szagoruyko/cifar.torch/blob/master/models/nin.lua)
    * Lin, Min, Qiang Chen, and Shuicheng Yan. "Network in network." arXiv preprint arXiv:1312.4400 (2013).
    
-VGG [[Paper]](https://arxiv.org/abs/1409.1556) [[Note]]() [[Torch Code]](https://github.com/szagoruyko/cifar.torch/blob/master/models/vgg_bn_drop.lua)
+VGG [[Paper]](https://arxiv.org/abs/1409.1556) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/VGG.md) [[Torch Code]](https://github.com/szagoruyko/cifar.torch/blob/master/models/vgg_bn_drop.lua)
    * Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014).
 
 GoogleNet [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) [[Note]]() [[Torch Code]](https://github.com/soumith/inception.torch/blob/master/googlenet.lua)
