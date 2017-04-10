@@ -10,7 +10,11 @@ GoogleNet [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/pa
    
 ResNet [[Paper]](https://arxiv.org/pdf/1512.03385.pdf) [[Note]]() [[Torch Code]](https://github.com/facebook/fb.resnet.torch)
    * He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
-   
+
+### Popular Module
+Dropout [[Paper]](http://www.jmlr.org/papers/volume15/srivastava14a.old/source/srivastava14a.pdf) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Dropout.md)
+* Srivastava, Nitish, et al. "Dropout: a simple way to prevent neural networks from overfitting." Journal of Machine Learning Research 15.1 (2014): 1929-1958.
+
 ### Object Detection in Image:
 RCNN [[Paper]](http://arxiv.org/abs/1311.2524) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/RCNN.md) [[Code]](https://github.com/rbgirshick/rcnn)
    * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation 
