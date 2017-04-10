@@ -19,6 +19,11 @@ When testing, all these networks' predictions are averaged by multiplying activa
 **An interesting and intuitive way to explain why Dropout work**
  > Ten conspiracies each involving five people is probably a better way to create havoc than one big conspiracy that requires fifty people to all play their parts correctly
 
+#### TL;DR
+Why does dropout work?
+- It avoids co-adaption
+- It's a kind of model assemble
+
 #### Reference
 
 Srivastava, Nitish, et al. "Dropout: a simple way to prevent neural networks from overfitting." Journal of Machine Learning Research 15.1 (2014): 1929-1958.
