@@ -15,6 +15,9 @@ ResNet [[Paper]](https://arxiv.org/pdf/1512.03385.pdf) [[Note]]() [[Torch Code]]
 Dropout [[Paper]](http://www.jmlr.org/papers/volume15/srivastava14a.old/source/srivastava14a.pdf) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Dropout.md)
 * Srivastava, Nitish, et al. "Dropout: a simple way to prevent neural networks from overfitting." Journal of Machine Learning Research 15.1 (2014): 1929-1958.
 
+Batch Normalization [[Paper]](https://arxiv.org/abs/1502.03167) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/BN.md)
+* Ioffe S, Szegedy C. Batch normalization: Accelerating deep network training by reducing internal covariate shift[J]. arXiv preprint arXiv:1502.03167, 2015.
+
 ### Object Detection in Image:
 RCNN [[Paper]](http://arxiv.org/abs/1311.2524) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/RCNN.md) [[Code]](https://github.com/rbgirshick/rcnn)
    * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation 
