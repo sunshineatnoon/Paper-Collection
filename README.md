@@ -82,7 +82,10 @@ Image-to-Image Translation with Conditional Adversarial Networks [[Paper]](https
   
 Learning to Generate Images of Outdoor Scenes from Attributes and Semantic Layouts [[Paper]](https://arxiv.org/abs/1612.00215) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/AL_CGAN.md)
   * Levent Karacan, Zeynep Akata, Aykut Erdem, Erkut Erdem. Learning to Generate Images of Outdoor Scenes from Attributes and Semantic Layouts [J]. arXiv preprint arXiv:1612.00215, 2016.
- 
+
+Learning to Discover Cross-Domain Relations with Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1703.05192) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/DiscoGAN.md)
+* Kim, Taeksoo, et al. "Learning to Discover Cross-Domain Relations with Generative Adversarial Networks." arXiv preprint arXiv:1703.05192 (2017).
+
 ### Activation Maximization
 Synthesizing the preferred inputs for neurons in neural networks via deep generator networks [[Paper]](https://arxiv.org/abs/1605.09304) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/DGN_AM.md)
   * Nguyen A, Dosovitskiy A, Yosinski J, et al. Synthesizing the preferred inputs for neurons in neural networks via deep generator networks[J]. arXiv preprint arXiv:1605.09304, 2016.
