@@ -34,6 +34,7 @@ The adversarial loss is to match the distribution of generated images to the dat
    
    <img src="https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/CycleGAN/MSE.png" height="70">
 3. Cycle GAN uses a history of generated images rather than the ones produced by the latest generative networks and keeps an image buffer that stores the 50 previously generated images.
+4. Cycle GAN uses instance normalization.
 
 ## Reference
 Zhu J Y, Park T, Isola P, et al. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks[J]. arXiv preprint arXiv:1703.10593, 2017.
