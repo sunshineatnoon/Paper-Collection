@@ -80,6 +80,9 @@ InfoGAN: Interpretable Representation Learning by Information Maximizing Generat
 Image-to-Image Translation with Conditional Adversarial Networks [[Paper]](https://arxiv.org/abs/1611.07004) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/pix2pix.md) [[Torch Code]](https://github.com/phillipi/pix2pix) [[Tensorflow Code]](https://github.com/yenchenlin/pix2pix-tensorflow)
   * Isola P, Zhu J Y, Zhou T, et al. Image-to-Image Translation with Conditional Adversarial Networks[J]. arXiv preprint arXiv:1611.07004, 2016.
   
+Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks  [[Paper]](https://arxiv.org/abs/1703.10593)  [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/cycleGAN.md)
+ * Zhu J Y, Park T, Isola P, et al. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks[J]. arXiv preprint arXiv:1703.10593, 2017.
+  
 Learning to Generate Images of Outdoor Scenes from Attributes and Semantic Layouts [[Paper]](https://arxiv.org/abs/1612.00215) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/AL_CGAN.md)
   * Levent Karacan, Zeynep Akata, Aykut Erdem, Erkut Erdem. Learning to Generate Images of Outdoor Scenes from Attributes and Semantic Layouts [J]. arXiv preprint arXiv:1612.00215, 2016.
 
