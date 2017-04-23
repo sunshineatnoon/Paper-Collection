@@ -55,6 +55,9 @@ Seq-NMS for Video Object Detection [[Paper]](http://arxiv.org/abs/1602.08465) [[
 Exploring Nearest Neighbor Approaches for Image Captioning [[Paper]](http://arxiv.org/abs/1505.04467)
    * Devlin J, Gupta S, Girshick R, et al. Exploring Nearest Neighbor Approaches for Image Captioning[J]. arXiv preprint arXiv:1505.04467, 2015.
 
+Show and Tell: A Neural Image Caption Generator [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Vinyals_Show_and_Tell_2015_CVPR_paper.html) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/ShowAndTell.md)
+   * Vinyals, Oriol, et al. "Show and tell: A neural image caption generator." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015.
+   
 ### Image Generations:
 Pixel Recurrent Neural Networks [[Paper]](https://arxiv.org/abs/1601.06759) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/pixel-rnn.md)
  * van den Oord A, Kalchbrenner N, Kavukcuoglu K. Pixel Recurrent Neural Networks[J]. arXiv preprint arXiv:1601.06759, 2016.
