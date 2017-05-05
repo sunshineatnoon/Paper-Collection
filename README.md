@@ -98,6 +98,10 @@ BEGAN: Boundary Equilibrium Generative Adversarial Networks [[Paper]](https://ar
 StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1612.03242) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/StackGAN.md) [[Tensorflow Code]](https://github.com/hanzhanggit/StackGAN)
  * Zhang, Han, et al. "StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks." arXiv preprint arXiv:1612.03242 (2016).
  
+### Image & Language
+Learning Deep Representations of Fine-Grained Visual Descriptions [[Paper]](https://arxiv.org/abs/1605.05395) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/DS-JSE.pdf)
+  * Reed, Scott, et al. "Learning deep representations of fine-grained visual descriptions." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
+  
 ### Activation Maximization
 Synthesizing the preferred inputs for neurons in neural networks via deep generator networks [[Paper]](https://arxiv.org/abs/1605.09304) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/DGN_AM.md)
   * Nguyen A, Dosovitskiy A, Yosinski J, et al. Synthesizing the preferred inputs for neurons in neural networks via deep generator networks[J]. arXiv preprint arXiv:1605.09304, 2016.
