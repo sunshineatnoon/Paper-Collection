@@ -1,7 +1,9 @@
-# Task
+# Preserving Color in Neural Artistic Style Transfer
+
+## Task
 Transfer style while preserving colors.
 
-# Main Idea
+## Main Idea
 ### Approach I
 **Main Idea**:For the style image S, first use color histogram matching algorithm to generate a new style image S' which matches the color histogram of the content image. Then use S' as the style image and perform conventional neural style transfer algorithm with content image C.
 
@@ -17,5 +19,5 @@ If there is a substantial mismatch between the luminance histogram of the style 
 ## Results
 <img src="images/preserveNT.png" height="400">
 
-# Reference
+## Reference
 Gatys, Leon A., et al. "Preserving color in neural artistic style transfer." arXiv preprint arXiv:1606.05897 (2016).
