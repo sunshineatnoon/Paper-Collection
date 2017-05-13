@@ -112,6 +112,9 @@ A neural algorithm of artistic style [[Paper]](http://arxiv.org/abs/1508.06576) 
 
 Perceptual losses for real-time style transfer and super-resolution [[Paper]](https://arxiv.org/abs/1603.08155) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Perceptual%20Losses%20Neural%20Style.md)
   * Johnson J, Alahi A, Fei-Fei L. Perceptual losses for real-time style transfer and super-resolution[J]. arXiv preprint arXiv:1603.08155, 2016.
+  
+Preserving Color in Neural Artistic Style Transfer [[Paper]](https://arxiv.org/abs/1606.05897) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/preserveNT.md) [[Pytorch Code]](https://github.com/sunshineatnoon/Paper-Implementations/tree/master/NeuralSytleTransfer#neural-style-transfer-with-color-preservation)
+  * Gatys, Leon A., et al. "Preserving color in neural artistic style transfer." arXiv preprint arXiv:1606.05897 (2016).
 
 ### Super Resolution
 Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Resolution [[Paper]](https://arxiv.org/abs/1612.00085) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/style_SR.md)
