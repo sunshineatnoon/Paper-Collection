@@ -116,7 +116,7 @@ Perceptual losses for real-time style transfer and super-resolution [[Paper]](ht
 Preserving Color in Neural Artistic Style Transfer [[Paper]](https://arxiv.org/abs/1606.05897) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/preserveNT.md) [[Pytorch Code]](https://github.com/sunshineatnoon/Paper-Implementations/tree/master/NeuralSytleTransfer#neural-style-transfer-with-color-preservation)
   * Gatys, Leon A., et al. "Preserving color in neural artistic style transfer." arXiv preprint arXiv:1606.05897 (2016).
 
-A Learned Representation For Artistic Style [[Paper]](https://arxiv.org/pdf/1610.07629.pdf) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/multi-neural.md)
+A Learned Representation For Artistic Style [[Paper]](https://arxiv.org/pdf/1610.07629.pdf) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/multi-neural.md) [[Tensorflow Code]](https://github.com/tensorflow/magenta/tree/master/magenta/models/image_stylization) [[Lasagne Code]](https://github.com/joelmoniz/gogh-figure)
   * Dumoulin, Vincent, Jonathon Shlens, and Manjunath Kudlur. "A learned representation for artistic style." (2017).
   
 ### Super Resolution
