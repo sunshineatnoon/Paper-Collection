@@ -1,3 +1,18 @@
+# Paper Collection - A List of Computer Vision Papers and Notes
+- [Image Classification](#image-classification)
+- [Popular Module](#popular-module)
+- [Object Detection in Image](#object-detection-in-image)
+- [Image Caption](#image-caption)
+- [Image Generations](#image-generations)
+- [Image and Language](#image-and-language)
+- [Activation Maximization](#activation-maximization)
+- [Style Transfer](#style-transfer)
+- [Super Resolution](#super-resolution)
+- [Image Segmentation](#image-segmentation)
+- [Open Courses](#open-courses)
+- [Online Books](#online-books)
+
+
 ### Image Classification:
 Network in Network [[Paper]](https://arxiv.org/abs/1312.4400) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/NIN.md) [[Torch Code]](https://github.com/szagoruyko/cifar.torch/blob/master/models/nin.lua)
    * Lin, Min, Qiang Chen, and Shuicheng Yan. "Network in network." arXiv preprint arXiv:1312.4400 (2013).
@@ -18,7 +33,7 @@ Dropout [[Paper]](http://www.jmlr.org/papers/volume15/srivastava14a.old/source/s
 Batch Normalization [[Paper]](https://arxiv.org/abs/1502.03167) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/BN.md)
 * Ioffe S, Szegedy C. Batch normalization: Accelerating deep network training by reducing internal covariate shift[J]. arXiv preprint arXiv:1502.03167, 2015.
 
-### Object Detection in Image:
+### Object Detection in Image
 RCNN [[Paper]](http://arxiv.org/abs/1311.2524) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/RCNN.md) [[Code]](https://github.com/rbgirshick/rcnn)
    * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation
 
@@ -46,11 +61,10 @@ Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent
 G-CNN: an Iterative Grid Based Object Detector [[Paper]](http://arxiv.org/abs/1512.07729v1)
    * Mahyar Najibi, Mohammad Rastegari, Larry S. Davis. arXiv:1512.07729, 2015.
 
-### Object Detection in Video:
 Seq-NMS for Video Object Detection [[Paper]](http://arxiv.org/abs/1602.08465) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Seq-NMS.md)
    * Wei Han, Pooya Khorrami, Tom Le Paine, Prajit Ramachandran, Mohammad Babaeizadeh, Honghui Shi, Jianan Li, Shuicheng Yan, Thomas S. Huang. Seq-NMS for Video Object Detection. arXiv preprint arXiv:1602.08465, 2016
 
-### Image Caption:
+### Image Caption
 
 Exploring Nearest Neighbor Approaches for Image Captioning [[Paper]](http://arxiv.org/abs/1505.04467)
    * Devlin J, Gupta S, Girshick R, et al. Exploring Nearest Neighbor Approaches for Image Captioning[J]. arXiv preprint arXiv:1505.04467, 2015.
@@ -98,7 +112,7 @@ BEGAN: Boundary Equilibrium Generative Adversarial Networks [[Paper]](https://ar
 StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1612.03242) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/StackGAN.md) [[Tensorflow Code]](https://github.com/hanzhanggit/StackGAN)
  * Zhang, Han, et al. "StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks." arXiv preprint arXiv:1612.03242 (2016).
  
-### Image & Language
+### Image and Language
 Learning Deep Representations of Fine-Grained Visual Descriptions [[Paper]](https://arxiv.org/abs/1605.05395) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/DS-JSE.pdf)
   * Reed, Scott, et al. "Learning deep representations of fine-grained visual descriptions." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
   
@@ -124,7 +138,7 @@ Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Re
   * Il Jun Ahn, Woo Hyun Nam. Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Resolution [J]. arXiv preprint arXiv:1612.00085, 2016.
 
 
-### Others  
+### Image Segmentation  
 Fully convolutional networks for semantic segmentation [[Paper]](https://arxiv.org/abs/1411.4038) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/FCN.md)
    * Long J, Shelhamer E, Darrell T. Fully convolutional networks for semantic segmentation[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 3431-3440.
 
@@ -138,6 +152,6 @@ Fully convolutional networks for semantic segmentation [[Paper]](https://arxiv.o
 ### Mathmatics
 * Introduction to Probability Models, Sheldon M. Ross
 
-### Clustering
+### Misc
 k-means++: The advantages of careful seeding [[Paper]](http://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/k-means++.md)
    * Arthur D, Vassilvitskii S. k-means++: The advantages of careful seeding[C]//Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete algorithms. Society for Industrial and Applied Mathematics, 2007: 1027-1035.
