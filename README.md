@@ -132,6 +132,12 @@ Preserving Color in Neural Artistic Style Transfer [[Paper]](https://arxiv.org/a
 
 A Learned Representation For Artistic Style [[Paper]](https://arxiv.org/pdf/1610.07629.pdf) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/multi-neural.md) [[Tensorflow Code]](https://github.com/tensorflow/magenta/tree/master/magenta/models/image_stylization) [[Lasagne Code]](https://github.com/joelmoniz/gogh-figure)
   * Dumoulin, Vincent, Jonathon Shlens, and Manjunath Kudlur. "A learned representation for artistic style." (2017).
+ 
+Demystifying Neural Style Transfer [[Paper]](https://arxiv.org/abs/1701.01036)
+  * Li, Yanghao, et al. "Demystifying Neural Style Transfer." arXiv preprint arXiv:1701.01036 (2017).
+
+Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[Paper]](https://arxiv.org/abs/1703.06868)
+  * Huang, Xun, and Serge Belongie. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization." arXiv preprint arXiv:1703.06868 (2017).
   
 ### Super Resolution
 Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Resolution [[Paper]](https://arxiv.org/abs/1612.00085) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/style_SR.md)
