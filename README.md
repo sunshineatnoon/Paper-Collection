@@ -138,7 +138,10 @@ Demystifying Neural Style Transfer [[Paper]](https://arxiv.org/abs/1701.01036)
 
 Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[Paper]](https://arxiv.org/abs/1703.06868)
   * Huang, Xun, and Serge Belongie. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization." arXiv preprint arXiv:1703.06868 (2017).
-  
+
+Fast Patch-based Style Transfer of Arbitrary Style [[Paper]](https://arxiv.org/pdf/1612.04337v1.pdf)
+  * Chen, Tian Qi, and Mark Schmidt. "Fast Patch-based Style Transfer of Arbitrary Style." arXiv preprint arXiv:1612.04337 (2016).
+
 ### Super Resolution
 Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Resolution [[Paper]](https://arxiv.org/abs/1612.00085) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/style_SR.md)
   * Il Jun Ahn, Woo Hyun Nam. Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Resolution [J]. arXiv preprint arXiv:1612.00085, 2016.
