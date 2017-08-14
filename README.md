@@ -71,7 +71,7 @@ Exploring Nearest Neighbor Approaches for Image Captioning [[Paper]](http://arxi
 
 Show and Tell: A Neural Image Caption Generator [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Vinyals_Show_and_Tell_2015_CVPR_paper.html) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/ShowAndTell.md)
    * Vinyals, Oriol, et al. "Show and tell: A neural image caption generator." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015.
-   
+
 ### Image Generations:
 Pixel Recurrent Neural Networks [[Paper]](https://arxiv.org/abs/1601.06759) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/pixel-rnn.md)
  * van den Oord A, Kalchbrenner N, Kavukcuoglu K. Pixel Recurrent Neural Networks[J]. arXiv preprint arXiv:1601.06759, 2016.
@@ -111,14 +111,17 @@ BEGAN: Boundary Equilibrium Generative Adversarial Networks [[Paper]](https://ar
 
 StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1612.03242) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/StackGAN.md) [[Tensorflow Code]](https://github.com/hanzhanggit/StackGAN)
  * Zhang, Han, et al. "StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks." arXiv preprint arXiv:1612.03242 (2016).
- 
+
 Invertible Conditional GANs for image editing [[Paper]](https://arxiv.org/abs/1611.06355) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/documents/IcGAN.md)
 * Perarnau G, van de Weijer J, Raducanu B, et al. Invertible Conditional GANs for image editing[J]. arXiv preprint arXiv:1611.06355, 2016.
+
+Stacked Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1612.04357) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/documents/SGAN.md)
+* Huang X, Li Y, Poursaeed O, et al. Stacked generative adversarial networks[J]. arXiv preprint arXiv:1612.04357, 2016.
 
 ### Image and Language
 Learning Deep Representations of Fine-Grained Visual Descriptions [[Paper]](https://arxiv.org/abs/1605.05395) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/DS-JSE.pdf)
   * Reed, Scott, et al. "Learning deep representations of fine-grained visual descriptions." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
-  
+
 ### Activation Maximization
 Synthesizing the preferred inputs for neurons in neural networks via deep generator networks [[Paper]](https://arxiv.org/abs/1605.09304) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/DGN_AM.md)
   * Nguyen A, Dosovitskiy A, Yosinski J, et al. Synthesizing the preferred inputs for neurons in neural networks via deep generator networks[J]. arXiv preprint arXiv:1605.09304, 2016.
@@ -129,13 +132,13 @@ A neural algorithm of artistic style [[Paper]](http://arxiv.org/abs/1508.06576) 
 
 Perceptual losses for real-time style transfer and super-resolution [[Paper]](https://arxiv.org/abs/1603.08155) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/Perceptual%20Losses%20Neural%20Style.md)
   * Johnson J, Alahi A, Fei-Fei L. Perceptual losses for real-time style transfer and super-resolution[J]. arXiv preprint arXiv:1603.08155, 2016.
-  
+
 Preserving Color in Neural Artistic Style Transfer [[Paper]](https://arxiv.org/abs/1606.05897) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/preserveNT.md) [[Pytorch Code]](https://github.com/sunshineatnoon/Paper-Implementations/tree/master/NeuralSytleTransfer#neural-style-transfer-with-color-preservation)
   * Gatys, Leon A., et al. "Preserving color in neural artistic style transfer." arXiv preprint arXiv:1606.05897 (2016).
 
 A Learned Representation For Artistic Style [[Paper]](https://arxiv.org/pdf/1610.07629.pdf) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/multi-neural.md) [[Tensorflow Code]](https://github.com/tensorflow/magenta/tree/master/magenta/models/image_stylization) [[Lasagne Code]](https://github.com/joelmoniz/gogh-figure)
   * Dumoulin, Vincent, Jonathon Shlens, and Manjunath Kudlur. "A learned representation for artistic style." (2017).
- 
+
 Demystifying Neural Style Transfer [[Paper]](https://arxiv.org/abs/1701.01036)
   * Li, Yanghao, et al. "Demystifying Neural Style Transfer." arXiv preprint arXiv:1701.01036 (2017).
 
