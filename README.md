@@ -112,6 +112,9 @@ BEGAN: Boundary Equilibrium Generative Adversarial Networks [[Paper]](https://ar
 StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1612.03242) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/StackGAN.md) [[Tensorflow Code]](https://github.com/hanzhanggit/StackGAN)
  * Zhang, Han, et al. "StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks." arXiv preprint arXiv:1612.03242 (2016).
  
+Invertible Conditional GANs for image editing [[Paper]](https://arxiv.org/abs/1611.06355) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/documents/IcGAN.md)
+* Perarnau G, van de Weijer J, Raducanu B, et al. Invertible Conditional GANs for image editing[J]. arXiv preprint arXiv:1611.06355, 2016.
+
 ### Image and Language
 Learning Deep Representations of Fine-Grained Visual Descriptions [[Paper]](https://arxiv.org/abs/1605.05395) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/DS-JSE.pdf)
   * Reed, Scott, et al. "Learning deep representations of fine-grained visual descriptions." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
