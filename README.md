@@ -118,6 +118,9 @@ Invertible Conditional GANs for image editing [[Paper]](https://arxiv.org/abs/16
 Stacked Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1612.04357) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/documents/SGAN.md)
 * Huang X, Li Y, Poursaeed O, et al. Stacked generative adversarial networks[J]. arXiv preprint arXiv:1612.04357, 2016.
 
+Rotating Your Face Using Multi-task Deep Neural Network [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Yim_Rotating_Your_Face_2015_CVPR_paper.html) [[Note]]()
+* Yim J, Jung H, Yoo B I, et al. Rotating your face using multi-task deep neural network[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 676-684.
+
 ### Image and Language
 Learning Deep Representations of Fine-Grained Visual Descriptions [[Paper]](https://arxiv.org/abs/1605.05395) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/DS-JSE.pdf)
   * Reed, Scott, et al. "Learning deep representations of fine-grained visual descriptions." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
