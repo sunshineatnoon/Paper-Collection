@@ -151,11 +151,13 @@ Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[Pap
 Fast Patch-based Style Transfer of Arbitrary Style [[Paper]](https://arxiv.org/pdf/1612.04337v1.pdf)
   * Chen, Tian Qi, and Mark Schmidt. "Fast Patch-based Style Transfer of Arbitrary Style." arXiv preprint arXiv:1612.04337 (2016).
 
-### Super Resolution
+### Low-level vision
 Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Resolution [[Paper]](https://arxiv.org/abs/1612.00085) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/style_SR.md)
   * Il Jun Ahn, Woo Hyun Nam. Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Resolution [J]. arXiv preprint arXiv:1612.00085, 2016.
 
-
+Deep Joint Image Filtering [[Paper]](https://pdfs.semanticscholar.org/9bc0/d4609fadc139480096ca95772bd82303a985.pdf) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/documents/ECCVJointFilter.md)
+  * Li Y, Huang J B, Ahuja N, et al. Deep joint image filtering[C]//European Conference on Computer Vision. Springer International Publishing, 2016: 154-169.
+  
 ### Image Segmentation  
 Fully convolutional networks for semantic segmentation [[Paper]](https://arxiv.org/abs/1411.4038) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/FCN.md)
    * Long J, Shelhamer E, Darrell T. Fully convolutional networks for semantic segmentation[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 3431-3440.
